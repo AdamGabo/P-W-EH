@@ -11,7 +11,7 @@
  - [Maintainer](#Maintainer)
 
 ## Purpose
-Automatic README Generator. Please navigate to the Develop folder in your terminal and type node index.js and go through the command prompts. 
+PWA Test Editor! 
 
 ## Built-With
 * NODE.js
