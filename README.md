@@ -36,7 +36,7 @@ Designed using the Workbox, Webpack etc.
 
 ## Details
 * GitHub Link: https://github.com/AdamGabo/P-W-EH
-* Heroku Link: 
+* Heroku Link: https://git.heroku.com/young-ridge-17139.git
 
 ## Maintainers 
 Adam Gaboury
