@@ -30,13 +30,12 @@ PWA Test Editor!
 ![Alt text](/images/Client.png?raw=true "Client Side Folder Structure")
 
 
-
 ## Design
 Designed using the Workbox, Webpack etc. 
 
 ## Details
 * GitHub Link: https://github.com/AdamGabo/P-W-EH
-* Heroku Link: https://git.heroku.com/young-ridge-17139.git
+* Heroku Link: https://young-ridge-17139.herokuapp.com/
 
 ## Maintainers 
 Adam Gaboury
